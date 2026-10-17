@@ -1,0 +1,5 @@
+# Visual Studio / MSBuild
+.vs/
+build/
+*.user
+*.aps
