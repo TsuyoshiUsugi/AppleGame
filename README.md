@@ -1,6 +1,6 @@
 # AppleGame
 
-raylib + C++ で作った、リンゴを食べて大きくなるゲーム。
+raylib + C++ で作ったミニゲーム
 
 **プレイはこちら** → https://morumoru.jp/works/raylib-apple/
 
